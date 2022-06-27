@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Viz12\Desktop\DSTR_ARRAY\DSTR_ARRAY\classes.h(281,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Viz12\Desktop\DSTR_ARRAY\DSTR_ARRAY\classes.h(320,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Viz12\Desktop\DSTR_ARRAY\DSTR_ARRAY\classes.h(1715,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Viz12\Desktop\DSTR_ARRAY\DSTR_ARRAY\classes.h(1726,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Viz12\Desktop\DSTR_ARRAY\DSTR_ARRAY\classes.h(1850,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Viz12\Desktop\DSTR_ARRAY\DSTR_ARRAY\menu.h(23,14): warning C4101: 'opt': unreferenced local variable
+  DSTR_ARRAY.vcxproj -> C:\Users\Viz12\Desktop\DSTR_ARRAY\x64\Debug\DSTR_ARRAY.exe
